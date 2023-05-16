@@ -1,10 +1,11 @@
 public class Author {
-    private final String authorName;
+    private final  String author;
 
-    public  Author(String authorName) {
-        this.authorName = authorName;
+    public Author(String author) {
+        this.author = author;
+
     }
-    public String getAuthorName() {
-        return this.authorName;
+    public String getAuthor() {
+        return this.author;
     }
 }
