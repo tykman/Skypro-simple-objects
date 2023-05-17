@@ -9,7 +9,7 @@ public class Book {
       this.publishingYear = publishingYear;
    }
 
-   public Author  getAuthor() {return this.author;}
+   public Author getAuthor() {return this.author;}
 
    public String getBookName() {return this.bookName;}
 
